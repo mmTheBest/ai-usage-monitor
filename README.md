@@ -6,7 +6,7 @@ A native macOS desktop widget for local AI usage monitoring. It shows enabled su
 
 ## Install
 
-Download the latest `AI Usage Monitor.zip` from:
+Download the latest `AI.Usage.Monitor.zip` from:
 
 ```text
 https://github.com/mmTheBest/ai-usage-monitor/releases/latest
